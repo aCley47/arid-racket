@@ -1,2 +1,2 @@
 # arid-racket
-not sure what to put here
+The beginning of my coding journey, including the final projects for TripleTen Sprints
